@@ -109,7 +109,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    // Free the world
+    // Frees the world
     free(world);
 
     // Step 5: Wait for the user to type a character before ending the
